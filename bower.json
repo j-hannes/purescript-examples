@@ -1,0 +1,6 @@
+{
+  "name": "purescript-book-excercises",
+  "dependencies": {
+    "purescript-math": "0.1.0"
+  }
+}
