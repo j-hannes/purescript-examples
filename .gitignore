@@ -1,0 +1,6 @@
+*.swp
+node_modules
+bower_components
+dist
+.psci
+.psci_modules
